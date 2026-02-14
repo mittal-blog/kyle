@@ -12,7 +12,7 @@
             <div class="col-md-6 text-center text-md-right">
                 <p class="m-0">
                     <img class="mini-logo mr-2" src="<?php echo DOMAIN_THEME_IMG.'favicon.png'; ?>" alt="Bludit"/>
-                    Powered by <a href="https://www.bludit.com" target="_blank" rel="noopener"><strong>BLUDIT</strong></a>
+                    Powered by <a href="https://github.com/mittal-blog" target="_blank" rel="noopener"><strong>mittal.blog</strong></a>
                 </p>
             </div>
 <?php endif; ?>
